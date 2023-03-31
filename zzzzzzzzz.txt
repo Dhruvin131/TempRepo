@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Latest version 
+yessssssssssssssssssssssssssssss
+new version conterol branch
+=======
+asfaasasfasfasfaf
+>>>>>>> b9a7d06cbaa58c42977267bebce47935311388f8
